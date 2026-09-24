@@ -1,16 +1,83 @@
-# React + Vite
+# 💼 Job & Internship Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **React application** for managing and tracking job and internship applications in one place.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* ➕ Add, edit, and delete applications
+* 🔎 Search by company or position
+* 🔽 Filter applications by status
+* ↕️ Sort by date or company
+* 📊 Dashboard with application statistics
+* 📈 Interview success rate
+* 💾 LocalStorage data persistence
+* 🧭 React Router navigation
+* 🌙 Dark mode
+* 📱 Responsive design
+* ✅ Form validation
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Technology            | Purpose                                |
+| --------------------- | -------------------------------------- |
+| **React**             | Building the user interface            |
+| **JavaScript (ES6+)** | Application logic                      |
+| **CSS3**              | Styling and responsive design          |
+| **React Router**      | Client-side routing                    |
+| **LocalStorage API**  | Persistent application data            |
+| **Vite**              | Development environment and build tool |
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Clone the repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/job-internship-tracker.git
+```
+
+### Install dependencies
+
+```bash
+cd job-internship-tracker
+npm install
+```
+
+### Start the development server
+
+```bash
+npm run dev
+```
+
+## 🎯 Purpose
+
+Built as a practical React project to strengthen:
+
+* Frontend development
+* React component architecture
+* State management
+* CRUD operations
+* Search, filtering, and sorting
+* LocalStorage
+* React Router
+* Responsive UI development
+
+## 👨‍💻 Author
+
+**Tayyab Ali**
+
+BS Computer Science
+
+Built as part of my journey toward becoming a **full-stack developer**.
+
+---
+
+## ⭐ If You Find This Project Useful
+
+If you find the project interesting, feel free to explore the code and give the repository a ⭐.
+
+---
+
+## 📄 License
+
+This project is open-source and available for educational and personal use.
+
