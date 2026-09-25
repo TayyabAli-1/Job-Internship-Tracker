@@ -32,7 +32,7 @@ A responsive **React application** for managing and tracking job and internship 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/job-internship-tracker.git
+git clone https://github.com/TayyabAli-1/job-internship-tracker.git
 ```
 
 ### Install dependencies
